@@ -1,1 +1,36 @@
+The Cybersecurity Lab is an entire virtual lab designed to provide first-hand experience with a wide variety of operating systems used in the cybersecurity field. The lab is a fantastic resource for students, hobbyists, and professionals who want to learn and enhance their ability and knowledge in the area of cybersecurity practice.
+
+Lab Components
+Security Operating Systems
+Windows XP
+
+Explore legacy vulnerabilities and security controls in this archaic operating system.
+Windows 7
+
+Pick up basic exploits and defense techniques relevant to this widely used OS.
+Windows 10
+
+Discover new security features and conduct penetration testing in a contemporary environment.
+Ubuntu
+
+Play with this well-known Linux distro, focusing on system security and administration.
+Linux
+
+Pick up general Linux security processes and command-line operation.
+Kali Linux
+
+Employ this pro distribution for penetration testing and ethical hacking tools.
+Parrot Security OS
+
+Become aware of a versatile security-focused OS, ideal for security audits and forensic analysis.
+Learning Objectives
+Hands-on Experience: Get hands-on experience by operating on different operating systems.
+Vulnerability Assessment: Learn to identify and exploit vulnerabilities on different environments.
+Network Security: Study network security and system security from cyber attacks.
+Ethical Hacking: Study ethical hacking techniques with tools employed on Kali and Parrot Security OS.
+Incident Response: Perform incident response techniques on a test platform.
+Use Cases
+Educational Purposes: Ideal for students and teachers of cybersecurity classes.
+Research and Development : This site enables researchers to beta test new security technologies and techniques.
+Skill Development : A tool for career professionals to improve their cyber security skill set.
 
